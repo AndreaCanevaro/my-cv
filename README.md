@@ -9,5 +9,5 @@
 👤 **Andrea Canevaro**
 
 * Website: https://andreacanevaroporfolio.netlify.app/
-* Github: (https://github.com/josemiranda989)
+* Github: (https://github.com/AndreaCanevaro)
 * LinkedIn: (https://www.linkedin.com/in/andrea-canevaro-9a0712158/)
