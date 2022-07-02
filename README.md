@@ -1,6 +1,6 @@
-<h1 align="center">Welcome to mi-curriculum-vitae 👋</h1>
+<h1 align="center">Welcome to my curriculum 👋</h1>
 
-> Landing page about my cv with HTML and CSS in Netifly
+> Landing page about my cv with HTML and CSS in Netlify
 
 ### 🏠 [Homepage](https://andreacanevaroporfolio.netlify.app/)
 
