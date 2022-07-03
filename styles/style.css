@@ -1,4 +1,5 @@
 * {
+    box-sizing: border-box;
     margin: 0px;
     font-family: 'Josefin Sans', sans-serif;
     scroll-behavior: smooth;
@@ -19,7 +20,8 @@ nav {
     list-style: none;
     display: flex;
     justify-content: center;
-    padding: 0px
+    padding: 0px;
+    max-width: 100%;
 }
 
 .options li a{
@@ -37,7 +39,10 @@ nav {
 }
 
 /* HOME SCREEN */
-
+.contenedor_contenedor_home {
+    border: #292929 solid 1px;
+    min-width: 400px;
+}
 .contenedor_home {
     background-color: #f4a9a8;
     height: 730px;
@@ -90,12 +95,13 @@ nav {
     justify-content: space-evenly;
     margin: auto;
     padding: 30px 0px 60px 0px;
+    min-width: 400px;
 }
 
 .contenedor_img {
     display: flex;
     justify-content: center;
-
+    width: 100%;
 }
 
 .contenedor_img img {
@@ -145,6 +151,7 @@ nav {
 /* Resume Screen */
 
 .contenedor_resume {
+    min-width: 400px;
     width: 90%;
     margin: auto;
     display: flex;
@@ -240,10 +247,11 @@ nav {
     border-radius: 10px;
 }
 
-/* PORTFOLIO reivsar codigo!!!! FALTA HOVER */
+/* PORTFOLIO */
 
 .portfolio {
     min-height: 30rem;
+    min-width: 400px;
     display: flex;
     flex-direction: column;
     padding: 3em 1rem;
