@@ -2,12 +2,12 @@
 
 > Landing page about my cv with HTML and CSS in Netlify
 
-### 🏠 [Homepage](https://andreacanevaroprofile.netlify.app/)
+### 🏠 [Homepage](https://luciacanevaroprofile.netlify.app/)
 
 ## Author
 
-👤 **Andrea Canevaro**
+👤 **Lucía Canevaro**
 
-* Website: https://andreacanevaroprofile.netlify.app/
-* Github: (https://github.com/AndreaCanevaro)
-* LinkedIn: (https://www.linkedin.com/in/andrea-canevaro-9a0712158/)
+* Website: https://luciacanevaroprofile.netlify.app/
+* Github: (https://github.com/LuciaCanevaro)
+* LinkedIn: (https://www.linkedin.com/in/lucia-canevaro/)
