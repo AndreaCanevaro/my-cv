@@ -40,7 +40,7 @@ nav {
 
 /* HOME SCREEN */
 .contenedor_contenedor_home {
-    min-width: 400px;
+    min-width: 350px;
 }
 .contenedor_home {
     background-color: #f4a9a8;
@@ -94,7 +94,7 @@ nav {
     justify-content: space-evenly;
     margin: auto;
     padding: 30px 0px 60px 0px;
-    min-width: 400px;
+    min-width: 350px;
 }
 
 .contenedor_img {
@@ -104,8 +104,8 @@ nav {
 }
 
 .contenedor_img img {
-    width: 400px;
-    height: 400px;
+    width: 300px;
+    height: 300px;
     border-radius: 100%;
     object-fit:cover;
 }
@@ -142,6 +142,9 @@ nav {
     text-decoration: none;
     color: rgb(255, 255, 255);
 }
+.resume_contact iframe {
+    max-width: 300px;
+}
 
 .resume_contact a:hover{
     color:rgb(63,111,123)
@@ -150,7 +153,7 @@ nav {
 /* Resume Screen */
 
 .contenedor_resume {
-    min-width: 400px;
+    min-width: 350px;
     width: 90%;
     margin: auto;
     display: flex;
@@ -250,7 +253,7 @@ nav {
 
 .portfolio {
     min-height: 30rem;
-    min-width: 400px;
+    min-width: 350px;
     display: flex;
     flex-direction: column;
     padding: 3em 1rem;
