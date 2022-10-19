@@ -10,4 +10,8 @@
 
 * Website: https://luciacanevaroprofile.netlify.app/
 * Github: (https://github.com/LuciaCanevaro)
+<<<<<<< HEAD
 * LinkedIn: (https://www.linkedin.com/in/andrea-lucia-canevaro/)
+=======
+* LinkedIn: (https://www.linkedin.com/in/andrea-lucia-canevaro/)
+
