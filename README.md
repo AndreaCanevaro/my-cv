@@ -6,8 +6,8 @@
 
 ## Author
 
-👤 **Lucía Canevaro**
+👤 **Andrea Lucía Canevaro**
 
 * Website: https://luciacanevaroprofile.netlify.app/
 * Github: (https://github.com/LuciaCanevaro)
-* LinkedIn: (https://www.linkedin.com/in/lucia-canevaro/)
+* LinkedIn: (https://www.linkedin.com/in/andrea-lucia-canevaro/)
